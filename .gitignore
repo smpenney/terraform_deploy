@@ -1,0 +1,11 @@
+.terraform.tfstate.lock.info
+*.deb
+*terraform.tfstate
+*terraform.tfstate.backup
+*publickey
+*.pem
+credentials
+*.lock
+.terraform
+/bdds_id
+*.pw
